@@ -1,0 +1,109 @@
+#cara {
+    margin-top: 300px;
+    width: 400px;
+    height: 400px;
+    border: 3px black solid;
+    background-color:yellow ;
+    border-radius: 50%;
+}
+
+.asta {
+    width: 430px;
+    height: 20px;
+    border: 3px black solid;
+    background-color: black;
+    position: absolute;
+    left: 20px;
+    transform: rotate(9deg);
+}
+
+.copa {
+    width: 200px;
+    height: 100px;
+    border: 3px black solid;
+    background-color: black;
+    position: absolute;
+    top: 210px;
+    left: 140px;
+    transform: rotate(9deg);
+}
+
+.ojo1 {
+    width: 75px;
+    height: 75px;
+    border: 3px black solid;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 360px;
+    left: 120px;
+}
+
+.ojo2 {
+    width: 75px;
+    height: 75px;
+    border: 3px black solid;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 363px;
+    left: 220px;
+}
+
+.pupila1 {
+    width: 30px;
+    height: 30px;
+    border: 3px black solid;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.pupila2 {
+    width: 30px;
+    height: 30px;
+    border: 3px black solid;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.nariz {
+    width: 78px;
+    height: 65px;
+    border: 3px black solid;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 400px;
+    left: 150px;
+}
+
+.barba {
+    width: 300px;
+    height: 180px;
+    border: 3px black solid;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 500px;
+    left: 60px;
+}
+
+.labios {
+    width: 210px;
+    height: 90px;
+    border: 3px black solid;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+.boca {
+    width: 70px;
+    height: 0px;
+    border: 5px black solid;
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
